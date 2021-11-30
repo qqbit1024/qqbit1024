@@ -49,10 +49,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-1572B6?logo=Next.js&style=for-the-badge)](https://nextjs.org/)
 
-### 📈 My GitHub:
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqbit1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham" alt="Pavel Merkulov" />
-<img src="https://github-readme-stats.vercel.app/api?username=qqbit1024&show_icons=true&theme=gotham" alt="Pavel Merkulov" />
 
 
 
