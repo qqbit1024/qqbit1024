@@ -14,6 +14,8 @@
   <img align="left" alt="Pavel Merkulov | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/640px-Instagram.svg.png" />
 </a>
 
+<a href="mailto:pavlik.merkulov@gmail.com">Текст ссылки</a>
+
 <br />
 
 ### ⚡ My Technology stack:
