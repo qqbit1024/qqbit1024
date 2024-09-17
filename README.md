@@ -22,7 +22,7 @@
 ### ⚡ My Technology stack:
 
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
-[![Type Script](https://shields.io/badge/-Type_Script-3178C6?logo=typescript&style=for-the-badge&logoColor=222)](https://www.typescriptlang.org//)
+[![Type Script](https://shields.io/badge/-Type_Script-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org//)
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![JWT](https://shields.io/badge/-JWT-333?logo=JSONWebTokens&style=for-the-badge)](https://jwt.io/)
