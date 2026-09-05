@@ -17,8 +17,6 @@ I build products for logistics, fleet management, and edtech — from system des
 [![CSS3](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Python](https://shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=fff)](https://www.python.org/)
 
-<br />
-
 ### 🎨 Frontend
 
 
@@ -29,7 +27,6 @@ I build products for logistics, fleet management, and edtech — from system des
 [![MobX](https://shields.io/badge/-MobX-FF9955?logo=mobx&style=for-the-badge&logoColor=fff)](https://mobx.js.org/)
 [![Apollo GraphQL](https://shields.io/badge/-Apollo_GraphQL-311C87?logo=apollographql&style=for-the-badge&logoColor=fff)](https://www.apollographql.com/)
 
-<br />
 
 ### ⚙️ Backend
 
@@ -44,7 +41,6 @@ I build products for logistics, fleet management, and edtech — from system des
 [![Kafka](https://shields.io/badge/-Kafka-231F20?logo=apachekafka&style=for-the-badge&logoColor=fff)](https://kafka.js.org/)
 [![OAuth](https://shields.io/badge/-OAuth-000000?logo=auth0&style=for-the-badge&logoColor=fff)](https://oauth.net/)
 
-<br />
 
 ### 🗄 Databases & Infrastructure
 
@@ -56,7 +52,6 @@ I build products for logistics, fleet management, and edtech — from system des
 [![CI/CD](https://shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&style=for-the-badge&logoColor=fff)](https://github.com/features/actions)
 [![Sentry](https://shields.io/badge/-Sentry-362D59?logo=sentry&style=for-the-badge&logoColor=fff)](https://sentry.io/)
 
-<br />
 
 ### 🧰 Tools & Practices
 
