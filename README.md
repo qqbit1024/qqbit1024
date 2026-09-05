@@ -7,7 +7,6 @@ I build products for logistics, fleet management, and edtech — from system des
 - 🛠 Core stack: **TypeScript, React, React Native, Node.js**
 - 💬 Reach me on Telegram: [@qqbit_1024](https://t.me/qqbit_1024)
 
-<br />
 
 ### ⚡ Languages & core
 
@@ -62,7 +61,6 @@ I build products for logistics, fleet management, and edtech — from system des
 [![Jest](https://shields.io/badge/-Jest-C21325?logo=jest&style=for-the-badge&logoColor=fff)](https://jestjs.io/)
 [![Software Architecture](https://shields.io/badge/-System_Design-4B5563?style=for-the-badge)](#)
 
-<br />
 
 ### 📫 Contact
 
