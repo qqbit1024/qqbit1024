@@ -5,18 +5,6 @@
 - 🤟 I like to write code!
 - 🤌 I like to create and support projects that people will use.
 
-### 🤔 Where can you find me?
-
-<a href="http://t.me/qqbit_1024">
-  <img align="left" alt="Pavel Merkulov | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
-</a>
-<a href="https://www.instagram.com/pavlik.korablik/">
-  <img align="left" alt="Pavel Merkulov | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/640px-Instagram.svg.png" />
-</a>
-<a href="mailto:pavlik.merkulov@gmail.com">
-  <img align="left" alt="Pavel Merkulov | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Spark_App_Logo.svg/1200px-Spark_App_Logo.svg.png" />
-</a>
-
 <br />
 
 ### ⚡ My Technology stack:
